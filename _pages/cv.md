@@ -41,7 +41,7 @@ Honors & Awards
 Selected Publications
 ------
 * Atmospheric remote sensing:
-  * __<ins>Ding</ins>__, J., P. Yang, M. T. Lemmon, and Y. Zhang, 2023: Simulations of Halos Produced by Carbon Dioxide Ice Crystals in the Martian Atmosphere, *Geophysical Research Letters*, 50, e2023GL103457. [[Link]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL103457)
+  * __<ins>Ding, J.</ins>__, P. Yang, M. T. Lemmon, and Y. Zhang, 2023: Simulations of Halos Produced by Carbon Dioxide Ice Crystals in the Martian Atmosphere, *Geophysical Research Letters*, 50, e2023GL103457. [[Link]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL103457)
   * Saito, M., P. Yang, __<ins>J. Ding</ins>__, and X. Liu, 2021: A comprehensive database of the optical properties of irregular aerosol particles for radiative transfer simulations, *Journal of Atmospheric Sciences*, 78, 2089-2111. [[Link]](https://journals.ametsoc.org/view/journals/atsc/78/7/JAS-D-20-0338.1.xml)
   * __<ins>Ding, J.</ins>__, L. Bi, P. Yang, G. W. Kattawar, F. Weng, Q. Liu, and T. Greenwald, 2017: Single-scattering properties of ice particles in the microwave regime: temperature effect on the ice refractive index with implications in remote sensing, *Journal of Quantitative Spectroscopy & Radiative Transfer*, 190, 26-37. [[Link]](https://www.sciencedirect.com/science/article/pii/S0022407316306367)
   * __<ins>Ding, J.</ins>__, P. Yang, R. E. Holz, S. Platnick, K. G. Meyer, M. A. Vaughan, Y. Hu, and M. D. King, 2016: Ice cloud backscatter study and comparison with CALIPSO and MODIS satellite data, *Optics Express*, 24, 620-636. [[Link]](https://opg.optica.org/oe/fulltext.cfm?uri=oe-24-1-620&id=335406)
