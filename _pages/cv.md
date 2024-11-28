@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my [CV](/files/CV-Jiachen Ding-updating20240919.pdf) in PDF version.
+Please find my [CV](/files/CV-Jiachen Ding.pdf) in PDF version.
 
 Education
 ------
