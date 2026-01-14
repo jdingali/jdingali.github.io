@@ -20,7 +20,7 @@ Education
 Work experience
 ------
 * January 2026 - Now: Assistant Professor
-  * Department of Atmospheric Sciences, Nanjing University
+  * School of Atmospheric Sciences, Nanjing University
 
 * December 2022 - November 2025: Assistant Research Scientist
   * Department of Atmospheric Sciences, Texas A&M University
