@@ -8,6 +8,10 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+Book
+------
+* Yang, P., __<ins>J. Ding</ins>__, M. Saito, and G. Kattawar, 2026: *Physical-Geometric Optics for Light-Scattering by Nonspherical Particles: Applications to Remote Sensing and Climate Science*. Cambridge University Press.
+
 Book Chapters
 ------
 1. Yang, P., __<ins>J. Ding</ins>__, and G. Kattawar, 2023: <ins>Applications of Maxwell’s equations to light scattering by dielectric particles</ins>. Chapter 7 in *Light, Plasmonics and Particles*, Eds. M. Pınar Mengüç and Mathieu Francoeur, Elsevier, pp. 600. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/B9780323999014000111)
@@ -16,6 +20,12 @@ Book Chapters
 
 Peer-reviewed journal articles
 ------
+1. __<ins>Ding, J.</ins>__, and P. Yang, 2026: Modeling Radiative Transfer in Aligned and Chiral Aerosols, *Journal of Geophysical Research: Atmosphere*, under review.
+1. Saito, M., P. Yang, L. Tsang, H. Okamoto, and __<ins>J. Ding</ins>__, 2026: Exploration of coherent backscattering mechanisms for nonspherical particles in geometric optics regime, *Journal of Quantitative Spectroscopy & Radiative Transfer*, accepted.
+1. __<ins>Ding, J.</ins>__, and P. Yang, 2025: Separation of Variables Method for Light Scattering by Two-Layer Spheroids with Size Parameters up to 1000, *Optics Express*, 33(19), 40532-40564. [[Link]](https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-19-40532)
+1. Wang, S., __<ins>J. Ding</ins>__, and P. Yang, 2025: Deep-learning application to the separation of variables method for light scattering by spheroids: Optimal number of expansion terms and improved prolate radial spheroidal function calculation, *Optics Express*, 33(16), 34407-34422. [[Link]](https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-16-34407)
+1. __<ins>Ding, J.</ins>__, and P. Yang, 2025: Improving Numerical Stability of the Separation of Variables Method for Light Scattering by Spheroids with Size Parameters up to 1000, *Journal of Quantitative Spectroscopy & Radiative Transfer*, 347, 109644. [[Link]](https://www.sciencedirect.com/science/article/pii/S0022407325003061)
+1. La Luna, A, Z. Zhang, J. Zheng, Q. Song, H. Yu, __<ins>J. Ding</ins>__, P. Yang, and M. Saito, 2025: Scattering properties and Lidar Characteristics of Asian Dust Particles Based on Realistic Shape Models, *Atmospheric Chemistry and Physics*, 25(20), 13359-13377. [[Link]](https://acp.copernicus.org/articles/25/13359/2025/)
 1. __<ins>Ding, J</ins>__, and P. Yang, 2023: Lorenz-Mie Theory-Type Solution for Light Scattering by Spheroids with Small-to-Large Size Parameters and Aspect Ratios, *Optics Express*, 31(24), 40937-40951. [[Link]](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-24-40937&id=542527)
 2. Cikota, A., __<ins>J. Ding</ins>__, L. Wang, D. Baade, S. Cikota, P. Höflich, J. Maund, and P. Yang, 2023: An independent determination of the distance to supernova SN 1987A by means of the light echo AT 2019xis, *The Astrophysical Journal Letters*, 949(1), L9. [[Link]](https://iopscience.iop.org/article/10.3847/2041-8213/acd37c)
 3. __<ins>Ding, J</ins>__, P. Yang, and G. Videen, 2023: On the Relation Between Ice-Crystal Scattering Phase Function at 180&deg; and Particle Size: Implication to Lidar-based Remote Sensing of Cirrus Clouds, *Optics Express*, 31(11), 18680-18692. [[Link]](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-11-18680&id=530785)
